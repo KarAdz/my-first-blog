@@ -25,8 +25,7 @@ SECRET_KEY = 'n1+vmqz@1^x*r2f7%+z=h+cw2%&m$(ycxt48ngdua3vlx%r5md'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
-ALLOWED_HOSTS = ['karadzpy.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'karadzpy.pythonanywhere.com']
 
 
 
